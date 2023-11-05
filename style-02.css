@@ -6,7 +6,7 @@
 
 /* Add your CSS here */
 
-.grid-container-task {
+.grid-container {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   gap: 2rem;
@@ -77,11 +77,6 @@
 
   background-color: #00fa9a;
 }
-
-
-
-
-
 
 /*
   CORE PAGE CSS - DO NOT MODIFY
